@@ -1,0 +1,26 @@
+body,html {
+    height: 100%;
+}
+
+body {
+    background: url(background.jpg) center center no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: black;
+   
+}
+
+
+
+.pt-25 {
+    padding-top: 25%;
+  }
+  
+  .text-lg {
+    font-size: 5em;
+    
+  }
+  
+  .text-shadow {
+    text-shadow: .1em .1em .15em rgb(209, 115, 27);
+  }
